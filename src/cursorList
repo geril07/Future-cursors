@@ -44,6 +44,7 @@ ll_angle bottom_left_corner
 lr_angle bottom_right_corner
 move dnd-move
 n-resize size_ver
+ns-resize size_ver
 ne-resize top_right_corner
 nesw-resize size_bdiag
 nw-resize top_left_corner
@@ -64,6 +65,7 @@ ul_angle top_left_corner
 ur_angle top_right_corner
 v_double_arrow size_ver
 w-resize size_hor
+ew-resize size_hor
 watch wait
 whats_this help
 xterm text
